@@ -10,4 +10,4 @@ void reverse() {
     }
     printf("Reversed number = %d", rev);
     return 0;
-}i
+}
